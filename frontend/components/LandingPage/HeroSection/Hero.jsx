@@ -77,7 +77,7 @@ function Hero(post){
                     <hr width="40%" align="left" className="hrStyle"/>
                     <p className= "pStyle" >{post.description}</p>
 
-                    <Button style={buttonStyle} > Contact us Today <UilNavigator size= "35px" style={{paddingLeft:"5%"}}/></Button>
+                    <Button style={buttonStyle}  href='#contact'> Contact us Today <UilNavigator size= "35px" style={{paddingLeft:"5%"}}/></Button>
                     <img src={HalfElipse} className="halfEStyle" />
                 </Col>
                 <Col lg={6} sm={12}>
