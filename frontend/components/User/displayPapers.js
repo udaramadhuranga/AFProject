@@ -24,7 +24,8 @@ const buttonColor = {
   height: "55px",
   width: "55px",
   right: "5%",
-  top: "5%"
+  top: "5%",
+  zIndex :"99"
 
 }
 
